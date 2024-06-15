@@ -1,0 +1,5 @@
+map_name: emptyhexes
+games:
+- game_name: Empty hexes 65x20 modding resource
+  file_name: empty hexes- land 65x20 PUs.xml
+version: 0
